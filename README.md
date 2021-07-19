@@ -1,1 +1,1 @@
-# -SAP-UI5-SAP-Fiori-SAP-OData
+# SAP-UI5-SAP-Fiori-SAP-OData
